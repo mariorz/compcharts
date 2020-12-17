@@ -111,7 +111,7 @@ textarea {
   margin: 0;
   border:1px solid  rgb(0,166,61);
   color: rgb(0,166,61);
-  background-color: #fbf6f0;
+  background-color: #fff;
 
 }
 button,
@@ -200,12 +200,12 @@ h6 {
     font-family: 'Inconsolata', sans-serif;
 }
 html {
-    background-color: #fbf6f0;
+    background-color: #fff;
     color:  rgb(0,166,61);
   margin: 1em;
 }
 body {
-    background-color: #fbf6f0;
+    background-color: #fff;
   margin: 0 auto;
   max-width: 23cm;
   border: 1pt solid rgb(0,166,61);
@@ -238,14 +238,14 @@ h6 {
     margin-bottom:12px;
 }
 pre {
-    background-color: #fbf6f0;;
+    background-color: #fff;;
   color: #657b83;
   border: 1pt solid  rgb(0,166,61);
   padding: 1em;
 
 }
 pre code {
-    background-color: #fbf6f0;;
+    background-color: #fff;;
 }
 h1 {
   font-size: 2.8em;
@@ -300,5 +300,5 @@ div.connect {
 }
 
 ::placeholder {
-    color: #fbf6f0;;
+    color: #fff;;
 }
